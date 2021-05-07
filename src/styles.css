@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+
+h1 {
+  color: darkcyan;
+}
+button {
+  color: white;
+  background-color: gray;
+
+  margin: 5px;
+}
